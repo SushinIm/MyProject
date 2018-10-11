@@ -11,7 +11,7 @@
     </appender>
     
     <!-- Application Loggers -->
-    <logger name="com.t.hc">
+    <logger name="com.myproject.study">
         <level value="debug" />
     </logger>
     
